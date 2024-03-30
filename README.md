@@ -1,42 +1,50 @@
-# C-Programming
+# C-Programming-Samples
 
-#C Programming Samples
 A collection of C programming files demonstrating various concepts and skills.
 
-#About
-This repository serves as a showcase of different problem-solvings using C programming. It contains a variety of program files covering different topics and techniques.
+## About
 
-Table of Contents
-File Descriptions
-Usage
-Contributing
-License
-Contact
-File Descriptions
+This repository serves as a showcase of different problem-solving using C programming. It contains a variety of program files covering different topics and techniques.
+
+## Table of Contents
+
+- [File Descriptions](#file-descriptions)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## File Descriptions
+
 Each program file is self-explanatory by its name.
 
-#Usage
-Download the Codeblocks application for Windows or Mac or Linux from here: https://www.codeblocks.org/downloads/binaries/
-for Windows: https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03-setup.exe/download
+## Usage
 
-1. Clone the repository: git clone https://github.com/codewizardSumit/c-programming-samples.git
-2. Navigate to the repository directory: cd c-programming-samples
-3. Compile the desired program: gcc -o program_name program_file.c
-4. Run the compiled program: ./program_name
+Download the Codeblocks application for Windows or Mac or Linux from [here](https://www.codeblocks.org/downloads/binaries/):
 
+- For Windows: [Download Codeblocks](https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03-setup.exe/download)
 
-#Contributing
+Clone the repository:
+```bash
+git clone https://github.com/codewizardSumit/c-programming-samples.git
+cd c-programming-samples
+gcc -o program_name program_file.c
+./program_name
+```
+
+## Contributing
 If you have any improvements or suggestions for new programs, feel free to contribute! Here's how:
 
-Fork the repository
-Create your feature branch: git checkout -b feature/new-feature
-Commit your changes: git commit -am 'Add new feature'
-Push to the branch: git push origin feature/new-feature
-Submit a pull request
-#License
+1. Fork the repository
+2. Create your feature branch: git checkout -b feature/new-feature
+3. Commit your changes: git commit -am 'Add new feature'
+4. Push to the branch: git push origin feature/new-feature
+5. Submit a pull request
+
+## License
 This repository is licensed under the MIT License. See the LICENSE file for details.
 
-#Contact
-Name: Sumit Kumar
-Email: Ethicalweb01@gmail.com
-GitHub: github.com/codewizardSumit
+## Contact
+1. Name: Sumit Kumar
+2. Email: Ethicalweb01@gmail.com
+3. GitHub: github.com/codewizardSumit
