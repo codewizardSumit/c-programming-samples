@@ -1,9 +1,9 @@
 # C-Programming
 
-C Programming Samples
+#C Programming Samples
 A collection of C programming files demonstrating various concepts and skills.
 
-About
+#About
 This repository serves as a showcase of different problem-solvings using C programming. It contains a variety of program files covering different topics and techniques.
 
 Table of Contents
@@ -15,7 +15,7 @@ Contact
 File Descriptions
 Each program file is self-explanatory by its name.
 
-Usage
+#Usage
 Download the Codeblocks application for Windows or Mac or Linux from here: https://www.codeblocks.org/downloads/binaries/
 for Windows: https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03-setup.exe/download
 
@@ -25,7 +25,7 @@ for Windows: https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Wi
 4. Run the compiled program: ./program_name
 
 
-Contributing
+#Contributing
 If you have any improvements or suggestions for new programs, feel free to contribute! Here's how:
 
 Fork the repository
@@ -33,10 +33,10 @@ Create your feature branch: git checkout -b feature/new-feature
 Commit your changes: git commit -am 'Add new feature'
 Push to the branch: git push origin feature/new-feature
 Submit a pull request
-License
+#License
 This repository is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
+#Contact
 Name: Sumit Kumar
 Email: Ethicalweb01@gmail.com
 GitHub: github.com/codewizardSumit
